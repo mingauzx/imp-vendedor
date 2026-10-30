@@ -1,0 +1,1 @@
+{"name":"imp-vendedor","version":"1.0.0","private":true,"type":"module","scripts":{"start":"bun index.ts","test":"node --test core.test.js"},"dependencies":{"pg":"^8.16.3"}}
